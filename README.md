@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Ismeet Pandey
+# Ismeet Pandey
 
-### 💻 Student • Developer • Builder
+### Student • Developer • Builder
 
-**I learn by building — turning ideas into simple, useful projects.**
+**Building practical software, learning in public, and turning ideas into working products.**
 
 <p>
   <a href="https://github.com/IsmeetPandey">
@@ -19,97 +19,104 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About
 
-I'm a student exploring **web development, Python, and software projects**. I like taking an idea, breaking it down, and turning it into something people can actually use.
+I'm a student focused on **software development, web systems, and practical developer tools**. I learn by building: taking an idea from a rough concept to a working project, then improving it through iteration.
 
-- 🔭 Building practical projects and experimenting with ideas
-- 🌱 Learning by shipping real projects
-- 🧠 Improving programming and problem-solving skills
-- 🎯 Focused on becoming a better builder, one project at a time
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- 🔭 Building useful software instead of just tutorials
+- 🧠 Developing stronger programming and problem-solving skills
+- 🌐 Exploring web applications, systems, and automation
+- 🚀 Shipping projects and learning from each iteration
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technologies
+
+**Languages & Web**
+
+`Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Tools**
+
+`FastAPI` `Playwright` `SQLite` `Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔎 Internet X-Ray
-Analyze the hidden network activity behind a public web page — requests, timings, third-party hosts, failures, security headers, and exportable reports.
 
-**Tech:** Python • FastAPI • Playwright • JavaScript
+A browser-based network analysis tool that turns hidden web activity into measurable data: requests, timings, third-party hosts, failures, security headers, and exportable reports.
 
-<a href="https://github.com/IsmeetPandey/internet-xray">View Repository →</a>
+**Python · FastAPI · Playwright · JavaScript**
+
+<a href="https://github.com/IsmeetPandey/internet-xray">View project →</a>
 
 </td>
 <td width="50%">
 
-### 🧮 Casio 991 ES Plus Online
-An online scientific calculator project built to recreate the experience of a familiar handheld calculator in the browser.
+### 🕰️ Website Time Machine
 
-**Tech:** HTML • CSS • JavaScript
+A lightweight snapshot system that stores historical website content and detects meaningful changes between versions.
 
-<a href="https://github.com/IsmeetPandey/casio-991-es-plus-online">View Repository →</a>
+**Python · SQLite**
+
+<a href="https://github.com/IsmeetPandey/website-time-machine">View project →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🕰️ Website Time Machine
-A lightweight URL snapshot system that keeps historical content and detects changes over time.
+### 🩺 WiFi Doctor
 
-**Tech:** Python • SQLite
+A network diagnostics tool for connectivity, latency, jitter, packet-loss observations, HTTP reachability, throughput, and stability.
 
-<a href="https://github.com/IsmeetPandey/website-time-machine">View Repository →</a>
+**Python · Networking**
+
+<a href="https://github.com/IsmeetPandey/wifi-doctor">View project →</a>
 
 </td>
 <td width="50%">
 
-### 🩺 WiFi Doctor
-A network diagnostics project for checking connectivity, latency, jitter, packet loss observations, HTTP reachability, and stability.
+### 🧠 Life OS
 
-**Tech:** Python
+A local-first personal feedback system designed to turn daily inputs into trends, correlations, and structured weekly reviews.
 
-<a href="https://github.com/IsmeetPandey/wifi-doctor">View Repository →</a>
+**Python · Data · Local-first systems**
+
+<a href="https://github.com/IsmeetPandey/life-os">View project →</a>
 
 </td>
 </tr>
 </table>
 
-> 🚧 More projects are coming as I keep building and learning.
+### 🔬 Code Forensics
+
+A Git repository archaeology tool that analyzes commits, file churn, hotspots, contribution patterns, and architectural milestones to make project history easier to understand.
+
+**Python · Git · Software analysis** · <a href="https://github.com/IsmeetPandey/code-forensics">View project →</a>
 
 ---
 
-## 🧠 What I'm Building
+## 🧩 What I Like Building
 
 ```text
-Web Tools       ████████████████░░  Building
-Python Projects ███████████████░░░  Learning
-Systems         ██████████████░░░░  Exploring
-Consistency     ████████████████░░  Shipping
+Developer Tools   ████████████████░░  Build
+Web Systems       ███████████████░░░  Explore
+Automation        ██████████████░░░░  Experiment
+Software Quality  ███████████████░░░  Improve
 ```
 
-I’m especially interested in **practical developer tools, web systems, automation, and projects that turn complex information into something easy to understand.**
+I’m interested in projects that make **complex systems easier to inspect, understand, and use.**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -124,28 +131,16 @@ I’m especially interested in **practical developer tools, web systems, automat
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Current Direction
 
-<div align="center">
+**Build → Measure → Learn → Improve → Ship**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmeetPandey&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-**Build → Learn → Improve → Ship**
-
-I'm focused on **learning consistently, building useful projects, and improving with every iteration.**
+I'm building a portfolio around **practical software, developer tooling, web systems, and experiments that solve real problems.**
 
 ---
 
 <div align="center">
 
 ### ⚡ Build. Learn. Improve. Repeat.
-
-*Thanks for stopping by!*
 
 </div>
