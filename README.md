@@ -8,6 +8,14 @@ I’m currently exploring **web development, Python, and software projects** —
 
 <br>
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/in.ismeet">
+    <img src="https://img.shields.io/badge/Instagram-in.ismeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: in.ismeet" />
+  </a>
+</p>
+
 ## 🧰 Tech Stack
 
 <p align="left">
