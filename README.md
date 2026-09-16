@@ -1,58 +1,44 @@
 <div align="center">
 
-# Ismeet Pandey
+# 👋 Hey, I'm Ismeet Pandey
 
-### Student • Developer • Builder
+### I build useful things for the web.
 
-**Building practical software, learning in public, and turning ideas into working products.**
+**Student • Developer • Builder**
+
+*I like taking everyday problems and turning them into simple digital tools.*
 
 <p>
-  <a href="https://github.com/IsmeetPandey">
-    <img src="https://img.shields.io/badge/GitHub-IsmeetPandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/in.ismeet">
-    <img src="https://img.shields.io/badge/Instagram-in.ismeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: in.ismeet" />
-  </a>
+  <a href="https://github.com/IsmeetPandey"><img src="https://img.shields.io/badge/GitHub-IsmeetPandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/in.ismeet"><img src="https://img.shields.io/badge/Instagram-@in.ismeet-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: in.ismeet" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 A little about me
 
-I'm a student focused on **software development, web systems, and practical developer tools**. I learn by building: taking an idea from a rough concept to a working project, then improving it through iteration.
+I'm a student who enjoys **building, experimenting, and learning by doing**.
 
-- 🔭 Building useful software instead of just tutorials
-- 🧠 Developing stronger programming and problem-solving skills
-- 🌐 Exploring web applications, systems, and automation
-- 🚀 Shipping projects and learning from each iteration
+I don't just want to write code — I want to make things that are **useful, understandable, and easy to use**.
 
----
-
-## 🛠️ Technologies
-
-**Languages & Web**
-
-`Python` `JavaScript` `HTML` `CSS`
-
-**Frameworks & Tools**
-
-`FastAPI` `Playwright` `SQLite` `Git` `GitHub` `VS Code`
+> 💡 **My rule:** start with an idea → build it → learn from it → make it better.
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Things I've built
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔎 Internet X-Ray
+**See what a website is doing behind the scenes.**
 
-A browser-based network analysis tool that turns hidden web activity into measurable data: requests, timings, third-party hosts, failures, security headers, and exportable reports.
+Explore network requests, loading times, third-party connections, failures, security headers, and more — all from one page.
 
-**Python · FastAPI · Playwright · JavaScript**
+**Built with:** Python · FastAPI · Playwright · JavaScript
 
 <a href="https://github.com/IsmeetPandey/internet-xray">View project →</a>
 
@@ -60,10 +46,11 @@ A browser-based network analysis tool that turns hidden web activity into measur
 <td width="50%">
 
 ### 🕰️ Website Time Machine
+**See how a website changes over time.**
 
-A lightweight snapshot system that stores historical website content and detects meaningful changes between versions.
+Save snapshots of public pages, keep their history, and compare versions to spot what changed.
 
-**Python · SQLite**
+**Built with:** Python · SQLite
 
 <a href="https://github.com/IsmeetPandey/website-time-machine">View project →</a>
 
@@ -73,10 +60,11 @@ A lightweight snapshot system that stores historical website content and detects
 <td width="50%">
 
 ### 🩺 WiFi Doctor
+**Find out what's happening with your connection.**
 
-A network diagnostics tool for connectivity, latency, jitter, packet-loss observations, HTTP reachability, throughput, and stability.
+Check connectivity, latency, jitter, packet loss observations, HTTP reachability, and network stability.
 
-**Python · Networking**
+**Built with:** Python
 
 <a href="https://github.com/IsmeetPandey/wifi-doctor">View project →</a>
 
@@ -84,44 +72,68 @@ A network diagnostics tool for connectivity, latency, jitter, packet-loss observ
 <td width="50%">
 
 ### 🧠 Life OS
+**Turn daily habits into useful feedback.**
 
-A local-first personal feedback system designed to turn daily inputs into trends, correlations, and structured weekly reviews.
+A local-first system for tracking daily inputs, spotting trends, exploring correlations, and reviewing progress.
 
-**Python · Data · Local-first systems**
+**Built with:** Python · Data tracking
 
 <a href="https://github.com/IsmeetPandey/life-os">View project →</a>
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%">
 
 ### 🔬 Code Forensics
+**Understand how a codebase changes over time.**
 
-A Git repository archaeology tool that analyzes commits, file churn, hotspots, contribution patterns, and architectural milestones to make project history easier to understand.
+Explore commits, file churn, hotspots, contributors, and architectural milestones through explainable repository analysis.
 
-**Python · Git · Software analysis** · <a href="https://github.com/IsmeetPandey/code-forensics">View project →</a>
+**Built with:** Python · Git analysis
+
+<a href="https://github.com/IsmeetPandey/code-forensics">View project →</a>
+
+</td>
+<td width="50%">
+
+### ✨ What's next?
+
+I'm continuing to build small tools that solve real problems and make complicated information easier to understand.
+
+**More experiments are on the way.**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 What I Like Building
+## 🛠️ What I work with
 
-```text
-Developer Tools   ████████████████░░  Build
-Web Systems       ███████████████░░░  Explore
-Automation        ██████████████░░░░  Experiment
-Software Quality  ███████████████░░░  Improve
-```
-
-I’m interested in projects that make **complex systems easier to inspect, understand, and use.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 What I'm interested in
+
+**🌐 Web tools** · **⚙️ Developer tools** · **📊 Useful data** · **🤖 Automation** · **🧩 Simple solutions to messy problems**
+
+---
+
+## 📊 My GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsmeetPandey&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmeetPandey&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsmeetPandey&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmeetPandey&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
 <br><br>
 
@@ -131,16 +143,10 @@ I’m interested in projects that make **complex systems easier to inspect, unde
 
 ---
 
-## 🎯 Current Direction
-
-**Build → Measure → Learn → Improve → Ship**
-
-I'm building a portfolio around **practical software, developer tooling, web systems, and experiments that solve real problems.**
-
----
-
 <div align="center">
 
-### ⚡ Build. Learn. Improve. Repeat.
+### ⚡ Build → Learn → Improve → Repeat
+
+**Thanks for visiting.** 👋
 
 </div>
