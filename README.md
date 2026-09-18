@@ -97,11 +97,14 @@ Explore commits, file churn, hotspots, contributors, and architectural milestone
 </td>
 <td width="50%">
 
-### ✨ What's next?
+### 📬 SignalDesk
+**Turn social conversations into an accountable workflow.**
 
-I'm continuing to build small tools that solve real problems and make complicated information easier to understand.
+Triage incoming interactions, prioritize important questions and leads, track response SLAs, assign ownership, and keep an audit trail.
 
-**More experiments are on the way.**
+**Built with:** Python · FastAPI · SQLite
+
+<a href="https://github.com/IsmeetPandey/18sep">View project →</a>
 
 </td>
 </tr>
