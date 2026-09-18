@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Ismeet Pandey
 
-### I build useful things for the web.
-
-**Student • Developer • Builder**
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Building+useful+things+for+the+web;Turning+everyday+problems+into+simple+tools;Student+%E2%80%A2+Developer+%E2%80%A2+Builder" alt="Typing introduction" />
+</p>
 
 *I like taking everyday problems and turning them into simple digital tools.*
 
@@ -153,6 +153,12 @@ Triage incoming interactions, prioritize important questions and leads, track re
 <p align="center">
   <sub>🐍 Contribution activity · animated automatically</sub>
 </p>
+
+### 🧊 Contribution landscape
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution calendar" width="100%" />
+</div>
 
 ---
 
