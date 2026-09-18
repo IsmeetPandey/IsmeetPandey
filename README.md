@@ -150,7 +150,7 @@ Triage incoming interactions, prioritize important questions and leads, track re
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" alt="Animated snake moving through GitHub contribution activity" width="1100" />
+    <img src="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" alt="Animated snake moving through GitHub contribution activity" width="1400" />
   </picture>
 </p>
 
