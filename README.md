@@ -147,11 +147,15 @@ Triage incoming interactions, prioritize important questions and leads, track re
 ### 🐍 Contribution activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/IsmeetPandey/IsmeetPandey/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+  </picture>
 </div>
 
 <p align="center">
-  <sub>🐍 Turning contributions into motion · updated automatically</sub>
+  <sub>🐍 Contribution activity · animated automatically</sub>
 </p>
 
 ---
