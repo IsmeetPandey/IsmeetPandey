@@ -33,6 +33,18 @@ I don't just want to write code — I want to make things that are **useful, und
 <tr>
 <td width="50%">
 
+### 🛡️ APIGuard
+**Catch breaking OpenAPI changes before they reach consumers.**
+
+A dependency-free Python CLI for deterministic, offline-friendly API contract preflight checks, with human-readable or JSON output and configurable CI failure policy.
+
+**Built with:** Python · OpenAPI · GitHub Actions
+
+<a href="https://github.com/IsmeetPandey/APIGuard">View project →</a>
+
+</td>
+<td width="50%">
+
 ### 🔎 Internet X-Ray
 **See what a website is doing behind the scenes.**
 
@@ -43,6 +55,8 @@ Explore network requests, loading times, third-party connections, failures, secu
 <a href="https://github.com/IsmeetPandey/internet-xray">View project →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🕰️ Website Time Machine
@@ -55,8 +69,6 @@ Save snapshots of public pages, keep their history, and compare versions to spot
 <a href="https://github.com/IsmeetPandey/website-time-machine">View project →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🩺 WiFi Doctor
@@ -69,6 +81,8 @@ Check connectivity, latency, jitter, packet loss observations, HTTP reachability
 <a href="https://github.com/IsmeetPandey/wifi-doctor">View project →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🧠 Life OS
@@ -81,8 +95,6 @@ A local-first system for tracking daily inputs, spotting trends, exploring corre
 <a href="https://github.com/IsmeetPandey/life-os">View project →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔬 Code Forensics
@@ -95,6 +107,8 @@ Explore commits, file churn, hotspots, contributors, and architectural milestone
 <a href="https://github.com/IsmeetPandey/code-forensics">View project →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📬 SignalDesk
@@ -104,7 +118,7 @@ Triage incoming interactions, prioritize important questions and leads, track re
 
 **Built with:** Python · FastAPI · SQLite
 
-<a href="https://github.com/IsmeetPandey/18sep">View project →</a>
+<a href="https://github.com/IsmeetPandey/SignalDesk">View project →</a>
 
 </td>
 </tr>
