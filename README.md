@@ -40,7 +40,7 @@ A dependency-free Python CLI for deterministic checks on MCP tool names, schemas
 
 **Built with:** Python · MCP · JSON Schema · GitHub Actions
 
-<a href="https://github.com/IsmeetPandey/20sep">View project →</a>
+<a href="https://github.com/IsmeetPandey/MCP-Surface">View project →</a>
 
 </td>
 <td width="50%">
