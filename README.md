@@ -9,7 +9,7 @@
 <!-- DYNAMIC TYPING SVG: Multi-Line Rotating Technical Specializations -->
 <!-- ================================================================= -->
 <a href="https://github.com/IsmeetPandey">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=860&lines=Low-Latency+Systems+%E2%80%A2+C%2B%2B20+SPSC+Ring+Buffers+%E2%80%A2+Rust+Async+Probes;Autonomous+AI+Agent+Infrastructure+%E2%80%A2+Model+Context+Protocol+(MCP);Polyglot+Architect+%E2%80%A2+10+Production+Languages+%E2%80%A2+Zero-Alloc+Engines;Open+Source+Contributor+to+Foundational+Repos+(390k%2B+%E2%AD%90+Upstream)" alt="Dynamic Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=880&lines=Low-Latency+Systems+%E2%80%A2+C%2B%2B20+SPSC+Ring+Buffers+%E2%80%A2+Rust+Async+Probes;Autonomous+AI+Agent+Infrastructure+%E2%80%A2+Model+Context+Protocol+(MCP);Polyglot+Architect+%E2%80%A2+10+Production+Languages+%E2%80%A2+Zero-Alloc+Engines;Open+Source+Contributor+to+Canonical+Repos+(1%2C000%2C000%2B+%E2%AD%90+Upstream)" alt="Dynamic Typing Subtitle" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IsmeetPandey&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/pulls?q=is%3Apr+author%3AIsmeetPandey">
-    <img src="https://img.shields.io/badge/Open_Source-390k%2B_Stars_Upstream-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Open Source Stars" />
+    <img src="https://img.shields.io/badge/Open_Source-1M%2B_Stars_Upstream-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Open Source Stars" />
   </a>
   <a href="https://github.com/IsmeetPandey?tab=repositories">
     <img src="https://img.shields.io/badge/Polyglot-10_Languages-FF0055?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" alt="Polyglot Stacks" />
@@ -71,7 +71,7 @@
 [1;35m│[0m [1;32mPrimary Languages       [0m[1;35m│[0m Rust 🦀 • Go 🐹 • TypeScript 🔷 • C++20 ⚡ • ANSI C99 💾 • Java 21 ☕ [1;35m│[0m
 [1;35m│[0m [1;32mCore Specialization     [0m[1;35m│[0m Wait-free Ring Buffers, Zero-Alloc Proxies, Network Latency Probes[1;35m│[0m
 [1;35m│[0m [1;32mAI Protocol Stacks      [0m[1;35m│[0m Model Context Protocol (MCP) Toolkits, Schema Linters, Sandboxes   [1;35m│[0m
-[1;35m│[0m [1;32mOpen Source Reach       [0m[1;35m│[0m Upstream Contributor across repositories with 390,000+ ⭐        [1;35m│[0m
+[1;35m│[0m [1;32mOpen Source Reach       [0m[1;35m│[0m Upstream Contributor across repositories with 1,000,000+ ⭐      [1;35m│[0m
 [1;35m│[0m [1;32mExecution Philosophy    [0m[1;35m│[0m "Mechanical sympathy, deterministic contracts, zero false-sharing"[1;35m│[0m
 [1;35m│[0m [1;32mCurrent System Status   [0m[1;35m│[0m 🟢 ONLINE — Architecting high-throughput open-source infrastructure[1;35m│[0m
 [1;35m╰─────────────────────────┴─────────────────────────────────────────────────────────────────╯[0m
@@ -93,9 +93,11 @@
 | Upstream Ecosystem | Stars | Contribution Architecture & Scope | Impact / Status |
 | :--- | :---: | :--- | :---: |
 | [**vinta/awesome-python**](https://github.com/vinta/awesome-python) | **334k+ ⭐** | AI Agent Infrastructure routing: standardized FastMCP & Monty specifications | [**PR #3405 • Green CI**](https://github.com/vinta/awesome-python/pull/3405) |
+| [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python) | **226k+ ⭐** | Non-cryptographic hashing algorithms: Fowler-Noll-Vo (FNV-1a 32/64-bit) with doctests | [**PR #15772 • Green CI**](https://github.com/TheAlgorithms/Python/pull/15772) |
 | [**firstcontributions**](https://github.com/firstcontributions/first-contributions) | **56.8k+ ⭐** | Global open-source contributor onboarding registry & verified profile | [**Merged (#128318) 🚀**](https://github.com/firstcontributions/first-contributions/pull/128318) |
 | [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | **38k+ ⭐** | Modern Python linter: prioritize stabilized `ruff: ignore` over legacy `noqa` | [**PR #30359 • Closes #27132**](https://github.com/astral-sh/ruff/pull/30359) |
 | [**The-PR-Agent/pr-agent**](https://github.com/The-PR-Agent/pr-agent) | **16k+ ⭐** | Autonomous code review AI: preserve completed CI timestamps in Actions staleness check | [**PR #4882 • Fixes #4880**](https://github.com/The-PR-Agent/pr-agent/pull/4882) |
+| [**huggingface/transformers.js**](https://github.com/huggingface/transformers.js) | **13k+ ⭐** | Web machine learning runtime: empty `HF_ENDPOINT` fallback resolution matching maintainer TODO for #1934 | [**PR #1950 • Fixes #1934**](https://github.com/huggingface/transformers.js/pull/1950) |
 | [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | **3.8k+ ⭐** | Interactive Japanese educational system module (Vercel-sponsored Next.js) | [**PR #33959 • Review Passed**](https://github.com/lingdojo/kana-dojo/pull/33959) |
 | [**wimpysworld/deb-get**](https://github.com/wimpysworld/deb-get) | **3,300+ ⭐** | Ubuntu/Debian native package manager recipe for NectarLink | [**PR #2100**](https://github.com/wimpysworld/deb-get/pull/2100) |
 | [**Syknapse/Contribute**](https://github.com/Syknapse/Contribute-To-This-Project) | **2.5k+ ⭐** | Polyglot systems engineer reference card & multi-stack architecture guide | [**Merged (#4843) 🚀**](https://github.com/Syknapse/Contribute-To-This-Project/pull/4843) |
@@ -311,7 +313,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source_Pioneer-390k%2B_%E2%AD%90_Upstream-00F0FF?style=for-the-badge&logo=github&labelColor=0d1117" alt="Open Source Pioneer" />
+  <img src="https://img.shields.io/badge/Open_Source_Pioneer-1M%2B_%E2%AD%90_Upstream-00F0FF?style=for-the-badge&logo=github&labelColor=0d1117" alt="Open Source Pioneer" />
   <img src="https://img.shields.io/badge/Polyglot_Master-10_Active_Stacks-FF0055?style=for-the-badge&logo=codeforces&labelColor=0d1117" alt="Polyglot Master" />
   <img src="https://img.shields.io/badge/Systems_Specialist-Low--Latency_Concurrency-00FF66?style=for-the-badge&logo=speedtest&labelColor=0d1117" alt="Systems Specialist" />
   <img src="https://img.shields.io/badge/AI_Protocols-Model_Context_Protocol-7952B3?style=for-the-badge&logo=anthropic&labelColor=0d1117" alt="AI Protocols" />
