@@ -92,19 +92,17 @@
 
 | Upstream Ecosystem | Stars | Contribution Architecture & Scope | Impact / Status |
 | :--- | :---: | :--- | :---: |
-| [**vinta/awesome-python**](https://github.com/vinta/awesome-python) | **334k+ ⭐** | AI Agent Infrastructure routing: standardized FastMCP & Monty specifications | [**PR #3405 • Green CI**](https://github.com/vinta/awesome-python/pull/3405) |
+| [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books) | **401k+ ⭐** | Open-access CS curriculum: added *Algorithms for Modern Hardware* (HPC & CPU architecture) | [**PR #13643 • Lint Passed**](https://github.com/EbookFoundation/free-programming-books/pull/13643) |
+| [**vinta/awesome-python**](https://github.com/vinta/awesome-python) | **334k+ ⭐** | AI Agent Infrastructure routing: standardized FastMCP & Monty specifications | [**Merged (#3405) 🚀**](https://github.com/vinta/awesome-python/pull/3405) |
 | [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python) | **226k+ ⭐** | Non-cryptographic hashing algorithms: Fowler-Noll-Vo (FNV-1a 32/64-bit) with doctests | [**PR #15772 • Green CI**](https://github.com/TheAlgorithms/Python/pull/15772) |
 | [**firstcontributions**](https://github.com/firstcontributions/first-contributions) | **56.8k+ ⭐** | Global open-source contributor onboarding registry & verified profile | [**Merged (#128318) 🚀**](https://github.com/firstcontributions/first-contributions/pull/128318) |
-| [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | **38k+ ⭐** | Modern Python linter: prioritize stabilized `ruff: ignore` over legacy `noqa` | [**PR #30359 • Closes #27132**](https://github.com/astral-sh/ruff/pull/30359) |
-| [**The-PR-Agent/pr-agent**](https://github.com/The-PR-Agent/pr-agent) | **16k+ ⭐** | Autonomous code review AI: preserve completed CI timestamps in Actions staleness check | [**PR #4882 • Fixes #4880**](https://github.com/The-PR-Agent/pr-agent/pull/4882) |
 | [**huggingface/transformers.js**](https://github.com/huggingface/transformers.js) | **13k+ ⭐** | Web machine learning runtime: empty `HF_ENDPOINT` fallback resolution matching maintainer TODO for #1934 | [**PR #1950 • Fixes #1934**](https://github.com/huggingface/transformers.js/pull/1950) |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | **3.8k+ ⭐** | Interactive Japanese educational system module (Vercel-sponsored Next.js) | [**PR #33959 • Review Passed**](https://github.com/lingdojo/kana-dojo/pull/33959) |
-| [**wimpysworld/deb-get**](https://github.com/wimpysworld/deb-get) | **3,300+ ⭐** | Ubuntu/Debian native package manager recipe for NectarLink | [**PR #2100**](https://github.com/wimpysworld/deb-get/pull/2100) |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | **3.8k+ ⭐** | Interactive Japanese educational system module (Vercel-sponsored Next.js) | [**Merged (#33959) 🚀**](https://github.com/lingdojo/kana-dojo/pull/33959) |
+| [**wimpysworld/deb-get**](https://github.com/wimpysworld/deb-get) | **3,300+ ⭐** | Ubuntu/Debian native package manager recipe for NectarLink | [**Merged (#2100) 🚀**](https://github.com/wimpysworld/deb-get/pull/2100) |
 | [**Syknapse/Contribute**](https://github.com/Syknapse/Contribute-To-This-Project) | **2.5k+ ⭐** | Polyglot systems engineer reference card & multi-stack architecture guide | [**Merged (#4843) 🚀**](https://github.com/Syknapse/Contribute-To-This-Project/pull/4843) |
 | [**pulseaiclub/phi**](https://github.com/pulseaiclub/phi) | **1,002 ⭐** | Go AI Agent harness: golangci-lint v2 configuration alignment | [**Merged (#501) 🚀**](https://github.com/pulseaiclub/phi/pull/501) |
-| [**Chulilee/InterChangabletrade**](https://github.com/Chulilee/InterChangabletrade-fricks) | **Active** | Stellar DEX order book spread computation, percentage metrics & UI accents | [**PR #168**](https://github.com/Chulilee/InterChangabletrade-fricks/pull/168) |
-| [**gmedia/sakala-console**](https://github.com/gmedia/sakala-console) | **Active** | Deployment console architecture refresh, realtime module docs & test commands | [**PR #116**](https://github.com/gmedia/sakala-console/pull/116) |
-| [**aemzayn/mqtt-access**](https://github.com/aemzayn/mqtt-access) | **Active** | Single-click payload resend feature with visual state feedback across 8 locales | [**PR #17**](https://github.com/aemzayn/mqtt-access/pull/17) |
+| [**aemzayn/mqtt-access**](https://github.com/aemzayn/mqtt-access) | **Active** | Single-click payload resend feature with visual state feedback across 8 locales | [**Merged (#17) 🚀**](https://github.com/aemzayn/mqtt-access/pull/17) |
+| [**Chulilee/InterChangabletrade**](https://github.com/Chulilee/InterChangabletrade-fricks) | **Active** | Stellar DEX order book spread computation, percentage metrics & UI accents | [**PR #168 • Open**](https://github.com/Chulilee/InterChangabletrade-fricks/pull/168) |
 
 </div>
 
